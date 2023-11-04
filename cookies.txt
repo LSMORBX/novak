@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.discordapp.com	TRUE	/	FALSE	1999999999	__cf_bm	eMM01CXauHOoxSANtLh9DLy_lyfhUQnTxIWvQMy_4pg-1699106708-0-AejX2F+X0YqjXTiu4LVAxoYs+m8dgudavhywSlcJMfyUWWsYjRa1Jq6tbgZjsKrFUL0fvo4TOJZXPPqBeSXDl7Y=
+.discordapp.com	TRUE	/	FALSE	1999999999	_cfuvid	_f1d49qjlLVgueUl1kPeODk8Teom5fJfoHJHzeA5nTs-1699106708453-0-604800000
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	None
+
